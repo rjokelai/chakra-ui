@@ -1,5 +1,19 @@
 # Change Log
 
+## 1.5.4
+
+### Patch Changes
+
+- [#5362](https://github.com/chakra-ui/chakra-ui/pull/5362)
+  [`787857861`](https://github.com/chakra-ui/chakra-ui/commit/7878578614ef774cdc78c2b5d892024d1d982048)
+  Thanks [@sohamsshah](https://github.com/sohamsshah)! - fix a minor edge-case
+  for calculating the `index` in use-range-slider
+
+- Updated dependencies
+  [[`1537a725f`](https://github.com/chakra-ui/chakra-ui/commit/1537a725fbc7f84979e374f546bda625fc685ac3)]:
+  - @chakra-ui/utils@1.10.0
+  - @chakra-ui/hooks@1.7.3
+
 ## 1.5.3
 
 ### Patch Changes

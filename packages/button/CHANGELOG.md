@@ -1,5 +1,20 @@
 # Change Log
 
+## 1.5.3
+
+### Patch Changes
+
+- [#5355](https://github.com/chakra-ui/chakra-ui/pull/5355)
+  [`94c8be3cd`](https://github.com/chakra-ui/chakra-ui/commit/94c8be3cd9d14acb131e649fb8dffdf7746caaba)
+  Thanks [@TimKolberger](https://github.com/TimKolberger)! - Fixed ThemingProps
+  typings for ButtonGroup
+
+- Updated dependencies
+  [[`1537a725f`](https://github.com/chakra-ui/chakra-ui/commit/1537a725fbc7f84979e374f546bda625fc685ac3)]:
+  - @chakra-ui/utils@1.10.0
+  - @chakra-ui/hooks@1.7.3
+  - @chakra-ui/spinner@1.2.2
+
 ## 1.5.2
 
 ### Patch Changes

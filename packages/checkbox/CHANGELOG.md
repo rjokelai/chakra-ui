@@ -1,5 +1,20 @@
 # Change Log
 
+## 1.6.3
+
+### Patch Changes
+
+- [#5375](https://github.com/chakra-ui/chakra-ui/pull/5375)
+  [`c9c54aee1`](https://github.com/chakra-ui/chakra-ui/commit/c9c54aee1e45c2ca96f7c032400ffeb06c57e341)
+  Thanks [@noobinthisgame](https://github.com/noobinthisgame)! - Added a
+  `CheckboxState` type to the `useCheckbox` hook to improve usability and
+  documentation
+- Updated dependencies
+  [[`1537a725f`](https://github.com/chakra-ui/chakra-ui/commit/1537a725fbc7f84979e374f546bda625fc685ac3)]:
+  - @chakra-ui/utils@1.10.0
+  - @chakra-ui/hooks@1.7.3
+  - @chakra-ui/visually-hidden@1.1.2
+
 ## 1.6.2
 
 ### Patch Changes
